@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFm3f2SwcYddumZUEAfUjxpdIUXIkbx9v/8/8UVByTcsDnLYRhZFbZwC2IZnESMtlfUGO9d8RwGl7+2099HQpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cetus\\szymon\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-rc.1.24431.7\\microsoft.extensions.configuration.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.configuration.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.0-rc.1.24431.7\\microsoft.extensions.configuration.binder.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.diagnostics\\9.0.0-rc.1.24431.7\\microsoft.extensions.diagnostics.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.diagnostics.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.http\\9.0.0-rc.1.24431.7\\microsoft.extensions.http.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-rc.1.24431.7\\microsoft.extensions.logging.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.logging.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-rc.1.24431.7\\microsoft.extensions.options.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.0-rc.1.24431.7\\microsoft.extensions.options.configurationextensions.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-rc.1.24431.7\\microsoft.extensions.primitives.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cetus\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0-rc.1.24431.7\\system.diagnostics.diagnosticsource.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
